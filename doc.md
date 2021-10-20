@@ -115,3 +115,5 @@
 
 
 9. 接下来就能在 ELK 里看到来自 Azure Spring Cloud 的日志了。
+
+    ![image.png](/resources/elklogs.jpg)
